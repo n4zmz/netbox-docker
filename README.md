@@ -9,7 +9,8 @@
 [![MicroBadger Size](https://img.shields.io/microbadger/image-size/netboxcommunity/netbox)][netbox-docker-microbadger]
 [![GitHub license](https://img.shields.io/github/license/netbox-community/netbox-docker)][netbox-docker-license]
 
-[The Github repository](netbox-docker-github) houses the components needed to build Netbox as a Docker container.
+[The Github repository](netbox-docker-github) houses the components needed to build Netbox as a Docker container.  Working on automated build for ARM64
+
 Images are built using this code and are released to [Docker Hub][netbox-dockerhub] once a day.
 
 Do you have any questions?
